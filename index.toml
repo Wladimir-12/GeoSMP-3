@@ -1797,6 +1797,10 @@ file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
+file = "icon.png"
+hash = "55a2457e8d07bc701b495efd0a2e14e4f2e7cf28f8f84452dfaf10b5a0cb363d"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "5c94693fca740b0cf3ad4ad28bd542ba902b12ed564bf0cc73ae0668b6f0f6fd"
 metafile = true
