@@ -1,0 +1,18 @@
+filename = "cwhitelist-3.0-1.21.1-1.21.10-NeoForge.jar"
+name = "cwhitelist"
+side = "server"
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9', '1.21.10' ]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "3.0-1.21.1-1.21.10-NeoForge"
+
+[download]
+hash = "4fed35be46e124245672cc1211a3460a9a6904d0edd9194758d332aae95d34a61a6637a385d1d65bd25992cfb167436bf1e867bcc2a401fb3e4a0e64f1b14db2"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/A2fb1XGO/versions/xBttIwrc/cwhitelist-3.0-1.21.1-1.21.10-NeoForge.jar"
+
+[update.modrinth]
+mod-id = "A2fb1XGO"
+version = "xBttIwrc"

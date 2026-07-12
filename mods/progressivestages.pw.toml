@@ -1,0 +1,21 @@
+filename = "progressivestages-3.0.jar"
+name = "ProgressiveStages"
+side = "both"
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = "beta"
+x-prismlauncher-version-number = "progressivestages-3.0.jar"
+
+[download]
+hash = "4fe19f039cab24cc14600a481812f3179275ebf5"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+
+
+[update.curseforge]
+file-id = 8338499
+project-id = 1460273
+
+[[x-prismlauncher-dependencies]]
+addonId = "580555"
+type = "REQUIRED"
