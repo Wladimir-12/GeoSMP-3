@@ -1,0 +1,22 @@
+{
+  "config_version": "2.0.25",
+  "config_datetime": "2026-06-11_14-40-55",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [
+    {
+      "name": "global",
+      "is_disabled": false,
+      "override_global_flatness_check": false,
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": false
+    }
+  ],
+  "structures": [],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

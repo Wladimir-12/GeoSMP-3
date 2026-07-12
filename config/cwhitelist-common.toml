@@ -1,0 +1,50 @@
+#Basic Settings
+[basic]
+	#Enable local logging
+	enableLogging = true
+	#Log retention days
+	# Default: 7
+	# Range: 1 ~ 365
+	logRetentionDays = 7
+	#Max log size (MB)
+	# Default: 10
+	# Range: 1 ~ 100
+	logCutSizeMB = 10
+
+#Check Settings
+[checks]
+	#Enable name check
+	enableNameCheck = true
+	#Enable UUID check
+	enableUuidCheck = true
+	#Enable IP check
+	enableIpCheck = true
+
+#API Settings
+[api]
+	#Enable API integration
+	enableApi = false
+	#API base URL
+	baseUrl = "http://127.0.0.1:5000/api"
+	#API authentication token
+	token = ""
+	#Use header authentication (true for header, false for query param)
+	useHeaderAuth = true
+	#API timeout in seconds
+	# Default: 10
+	# Range: 1 ~ 60
+	timeoutSeconds = 10
+	#Cache duration in seconds (0 to disable)
+	# Default: 30
+	# Range: 0 ~ 3600
+	cacheDurationSeconds = 30
+	#Sync whitelist on mod startup
+	syncOnStartup = true
+	#Send login events to API
+	logLoginEvents = true
+	#Server identifier (optional)
+	serverId = ""
+	#Send server ID in requests
+	sendServerId = false
+	#Include expired entries when syncing
+	includeExpired = false

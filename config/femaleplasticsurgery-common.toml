@@ -1,0 +1,19 @@
+["Female Plastic Surgery Config"]
+	# Default: 1.0
+	# Range: 0.8 ~ 4.0
+	bustSizeMax = 1.0
+	# Default: -1.5
+	# Range: -4.0 ~ -1.0
+	"Breast Height Min" = -1.5
+	# Default: -1.5
+	# Range: -4.0 ~ -1.0
+	"Breast Depth Min" = -1.5
+	# Default: 0.0
+	# Range: 0.0 ~ 4.0
+	"Breast Depth Max" = 0.0
+	# Default: 1.0
+	# Range: 0.5 ~ 3.0
+	"Bounce Multiplier Max" = 1.0
+	# Default: 1.5
+	# Range: 1.0 ~ 3.0
+	"Floppy Multiplier Max" = 1.5

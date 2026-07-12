@@ -1,0 +1,4 @@
+#Coordinate scale factor for nether portal teleportation
+# Default: 1.0
+# Range: 0.01 ~ 64.0
+scale = 1.0

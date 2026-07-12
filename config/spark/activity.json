@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "gotitim",
+      "uniqueId": "c7879227-3d1d-4dd7-92dd-b9c6f58fd632"
+    },
+    "time": 1783525446224,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/yxdBp27OZY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gotitim",
+      "uniqueId": "c7879227-3d1d-4dd7-92dd-b9c6f58fd632"
+    },
+    "time": 1783524073197,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/83bvP5EhYd"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gotitim",
+      "uniqueId": "c7879227-3d1d-4dd7-92dd-b9c6f58fd632"
+    },
+    "time": 1783437305753,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/U4oqW1QhEn"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gotitim",
+      "uniqueId": "c7879227-3d1d-4dd7-92dd-b9c6f58fd632"
+    },
+    "time": 1783436226523,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wb7vCOgiTo"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gotitim",
+      "uniqueId": "c7879227-3d1d-4dd7-92dd-b9c6f58fd632"
+    },
+    "time": 1783436224866,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Q7cFfZHyVH"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gotitim",
+      "uniqueId": "c7879227-3d1d-4dd7-92dd-b9c6f58fd632"
+    },
+    "time": 1783435600011,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/uh8lbTvEbT"
+    }
+  }
+]

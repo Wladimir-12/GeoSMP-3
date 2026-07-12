@@ -1,0 +1,17 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"bloomingnature:twigs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bloomingnature:prickly_pear_cactus"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bloomingnature:small_cactus"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bloomingnature:floating_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bloomingnature:pebbles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bloomingnature:bloomingnature_banner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:ancient_pot","components":{"nomansland:pot_variant":"nomansland:ancient_pot_small_6"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:ancient_pot","components":{"nomansland:pot_variant":"nomansland:alchemist_pot_small_4"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:ancient_pot","components":{"nomansland:pot_variant":"nomansland:alchemist_pot_small_2_face_stern"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:ancient_pot","components":{"nomansland:pot_variant":"nomansland:ancient_pot_small_4"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:large_ancient_pot","components":{"nomansland:pot_variant":"nomansland:alchemist_pot_large_1_wiggle_white"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:cobblestone_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:cobblestone_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:pebbles"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
