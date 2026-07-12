@@ -1,0 +1,13 @@
+name = "GeoSMP-3"
+author = "Wladimir"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eb0e0181e4dd5e77fe66844f7841e64ddd4da76eb45ef07c9cc0771da82ac480"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"
