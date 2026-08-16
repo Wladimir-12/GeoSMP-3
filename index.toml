@@ -1829,6 +1829,10 @@ file = "kubejs/config/web_server.json"
 hash = "c117f5cb10162a777d72d5eb54555d3c5095b5ddaa5a974b09265c0fd0af92f0"
 
 [[files]]
+file = "kubejs/server_scripts/artifacts.js"
+hash = "a16e671664e8d067de460c23714498c6d3de7bb08d14c90ec140cdf434884df2"
+
+[[files]]
 file = "kubejs/server_scripts/jei-hide.js"
 hash = "b7268c53c6c0e80f09ba4e5975d20cc962e3a66878c3106f52a88193a09aaba9"
 
@@ -2356,6 +2360,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "4d5113bf5f86d6fccefee5e31e6f699e153d54208e395a6118955442e76508bf"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
 metafile = true
 
 [[files]]
