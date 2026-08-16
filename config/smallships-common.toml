@@ -60,7 +60,7 @@ schematicVersion = 5
 			#Range: 1.0 ~ 10000.0
 			shipAttributeCogMaxHealth = 300.0
 			#Range: 0.0 ~ 100.0
-			shipAttributeCogMaxSpeed = 30.0
+			shipAttributeCogMaxSpeed = 27.0
 			#Range: 0.0 ~ 100.0
 			shipAttributeCogMaxReverseSpeed = 0.1
 			#Range: 0.0 ~ 100.0
@@ -73,7 +73,7 @@ schematicVersion = 5
 		#Default configs for the container of the Cog.
 		[Ship.Cog.Container]
 			#Set container size for the Cog (value must be divisible by 9 and bigger than 0).
-			shipContainerCogContainerSize = 108
+			shipContainerCogContainerSize = 54
 
 		#Cog specific speed modifiers.
 		[Ship.Cog.Modifier]
@@ -86,7 +86,7 @@ schematicVersion = 5
 			#Range: 0.0 ~ 10000.0
 			shipAttributeBriggMaxHealth = 450.0
 			#Range: 0.0 ~ 100.0
-			shipAttributeBriggMaxSpeed = 35.0
+			shipAttributeBriggMaxSpeed = 31.5
 			#Range: 0.0 ~ 100.0
 			shipAttributeBriggMaxReverseSpeed = 0.1
 			#Range: 0.0 ~ 100.0
@@ -99,7 +99,7 @@ schematicVersion = 5
 		#Default configs for the container of the Brigg.
 		[Ship.Brigg.Container]
 			#Set container size for the Brigg (value must be divisible by 9 and bigger than 0).
-			shipContainerBriggContainerSize = 162
+			shipContainerBriggContainerSize = 54
 
 		#Brigg specific speed modifiers.
 		[Ship.Brigg.Modifier]
@@ -112,7 +112,7 @@ schematicVersion = 5
 			#Range: 0.0 ~ 10000.0
 			shipAttributeGalleyMaxHealth = 200.0
 			#Range: 0.0 ~ 100.0
-			shipAttributeGalleyMaxSpeed = 30.0
+			shipAttributeGalleyMaxSpeed = 27.0
 			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyMaxReverseSpeed = 0.1
 			#Range: 0.0 ~ 100.0
@@ -125,7 +125,7 @@ schematicVersion = 5
 		#Default configs for the container of the Galley.
 		[Ship.Galley.Container]
 			#Set container size for the Galley (value must be divisible by 9 and bigger than 0).
-			shipContainerGalleyContainerSize = 54
+			shipContainerGalleyContainerSize = 27
 
 		#Galley specific speed modifiers.
 		[Ship.Galley.Modifier]
@@ -138,7 +138,7 @@ schematicVersion = 5
 			#Range: 0.0 ~ 10000.0
 			shipAttributeDrakkarMaxHealth = 200.0
 			#Range: 0.0 ~ 100.0
-			shipAttributeDrakkarMaxSpeed = 30.0
+			shipAttributeDrakkarMaxSpeed = 27.0
 			#Range: 0.0 ~ 100.0
 			shipAttributeDrakkarMaxReverseSpeed = 0.1
 			#Range: 0.0 ~ 100.0
@@ -151,7 +151,7 @@ schematicVersion = 5
 		#Default configs for the container of the Drakkar.
 		[Ship.Drakkar.Container]
 			#Set container size for the Drakkar (value must be divisible by 9 and bigger than 0).
-			shipContainerDrakkarContainerSize = 54
+			shipContainerDrakkarContainerSize = 27
 
 		#Drakkar specific speed modifiers.
 		[Ship.Drakkar.Modifier]
