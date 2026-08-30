@@ -1,12 +1,12 @@
 name = "GeoSMP-3"
 author = "Wladimir"
-version = "0.1.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cbc657dc7382e74aa98018201bc94eb9ee34e4d4487cce0da2477aa8279c05e9"
+hash = "1f76940fd0fc07fe89d1efb5a71f7f17b0c17d15a080559897acf7747e22a052"
 
 [versions]
 minecraft = "1.21.1"

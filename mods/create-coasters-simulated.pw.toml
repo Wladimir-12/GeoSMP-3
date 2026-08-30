@@ -3,11 +3,11 @@ filename = "simulatedcoasters-0.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3a236c3234672524a6f4684e3f1f59f452210f0b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/W1ZUfWdr/versions/iOm9m3BL/simulatedcoasters-0.1.1.jar"
+hash-format = "sha512"
+hash = "88875765a078e446ef911943b7d3ea47021977db145667a349cddda960295bc92a8a4911192adda27652f451a8778424f3de12aa2a32d84a83b4dcc706afdfe7"
 
 [update]
-[update.curseforge]
-file-id = 8556490
-project-id = 1601871
+[update.modrinth]
+mod-id = "W1ZUfWdr"
+version = "iOm9m3BL"

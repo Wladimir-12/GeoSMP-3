@@ -1,13 +1,13 @@
 name = "Skin Restorer"
 filename = "skinrestorer-2.10.0+1.21-neoforge.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "ea72bb25debbfc74b9486cb9d0fcb814ee5c6323"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/P7Vre2lP/skinrestorer-2.10.0%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "94e12b12c4e36b47a07a5d23f4e26ea5b26a9f8b9e64c5e016846af33aaad137cac50fd70b245b4909790fe2dc5673704baec213b2a562fc124a583cb8128170"
 
 [update]
-[update.curseforge]
-file-id = 8543997
-project-id = 443823
+[update.modrinth]
+mod-id = "ghrZDhGW"
+version = "P7Vre2lP"

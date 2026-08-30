@@ -2191,7 +2191,7 @@ metafile = true
 
 [[files]]
 file = "mods/aeroengine-fuel-compat.pw.toml"
-hash = "d2af171d09e078087120de8ae375394aa4aee7d1e57864a6e5515ac524e8427b"
+hash = "5f3bc7ba5ea02e757ecb9701a4099c567bdc19070c63e0b760f20722c4cd2113"
 metafile = true
 
 [[files]]
@@ -2416,7 +2416,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "5c02112b8c0da7825024b7570d7431c12383fbfabf2fd8307a5b1ae08d556ff7"
+hash = "de3d0b757448bb1f92ed2f945f91d24550385e1160b909ed69f6ed5948d11c97"
 metafile = true
 
 [[files]]
@@ -2560,10 +2560,6 @@ hash = "9cae535d0e517933a95ce8819a52f0bc603dab6924de89f65de22d180fa5d6fe"
 metafile = true
 
 [[files]]
-file = "mods/drivebywire-0.3.0.jar"
-hash = "39a3dfd7b3b26dedb347ac51356a3e3819fd05dfcdd2a7f2c1f18c09a5298ef6"
-
-[[files]]
 file = "mods/dusty-decorations.pw.toml"
 hash = "bbc82469fa5d17e857ab3e1a1815106a715bfec020a1ec7998cec204b5399242"
 metafile = true
@@ -2681,6 +2677,11 @@ metafile = true
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "892c3b85c8a0c86e799a5dd2a97f016db9f71ae8b30f893908d1cf6e57cb7acc"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "a5ab047634e31601d816775501e56d15f9981dd0f8e1b2624ba8620c14a8dc62"
 metafile = true
 
 [[files]]
@@ -2884,11 +2885,6 @@ hash = "82b40169e68cf3ada5b7c81c7d498355d78468998ce5396e61d51f3c023c1c62"
 metafile = true
 
 [[files]]
-file = "mods/project-1152512.pw.toml"
-hash = "1d75396fa90578d6f62e7191e4d8b222bc6f0998629e02bd65484ef56fe97565"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
@@ -2944,10 +2940,6 @@ hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
-file = "mods/sable_player_ragdoll-1.21.1-0.7.5.jar"
-hash = "69611deff1c2b18ae0ae7dbaea24cc14f4b69f0368297653933ae9b33adf2d2b"
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "d318efaa5190d251642c7a6de7f327a35d32a587bc72ec2c180603e72563c9e7"
 metafile = true
@@ -2964,7 +2956,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "dff2a187673c7be53d9f4d9efbad23d8c7f71aa607e77facadb632e978099579"
+hash = "4d09486515db5baeaf01c0d6e6a3fefb64a947d42c66b6d5a68f7242cc1a88fc"
 metafile = true
 
 [[files]]
@@ -3003,10 +2995,6 @@ hash = "5819325007d6c588d5c62e39dbf71e446abc758ecac276839c8f109f091642a7"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
 metafile = true
@@ -3035,10 +3023,6 @@ metafile = true
 file = "mods/supplementaries.pw.toml"
 hash = "34ef88b3e43662d1c2a8c5189003b7d4d471fe9909cd162849d13e9f770da50c"
 metafile = true
-
-[[files]]
-file = "mods/swingthrough-1.0.5+1.21.jar"
-hash = "0c29ce4166261f3f995a3a9c47753050983662a4086846ed524a1fe2ecd13353"
 
 [[files]]
 file = "mods/swingthrough.pw.toml"
