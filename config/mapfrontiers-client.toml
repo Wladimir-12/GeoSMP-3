@@ -29,12 +29,12 @@ configVersion = 4
 		[frontier.appearance.fill]
 			#Transparency of the frontier fill. 0.0 is fully transparent and 1.0 is opaque.
 			#Range: 0.0 ~ 1.0
-			opacity = 0.4
+			opacity = 0.5
 
 		[frontier.appearance.border]
 			#Width of the frontier border.
 			#Range: 0 ~ 64
-			width = 0
+			width = 6
 			#Transparency of the frontier border. 0.0 is fully transparent and 1.0 is opaque.
 			#Range: 0.0 ~ 1.0
 			opacity = 1.0
@@ -42,15 +42,15 @@ configVersion = 4
 		[frontier.appearance.pathMarkers]
 			#Size of path markers.
 			#Range: 1 ~ 5
-			size = 2
+			size = 1
 			#Transparency of path markers. 0.0 is fully transparent and 1.0 is opaque.
 			#Range: 0.0 ~ 1.0
-			opacity = 1.0
+			opacity = 0.5
 
 		[frontier.appearance.text]
 			#Size of the frontier text.
 			#Range: 1 ~ 5
-			size = 2
+			size = 3
 			#Transparency of the frontier text. 0.0 is fully transparent and 1.0 is opaque.
 			#Range: 0.0 ~ 1.0
 			opacity = 1.0
@@ -68,14 +68,14 @@ configVersion = 4
 
 	[frontier.default]
 		#Default first name line for new frontiers.
-		name1 = "New"
+		name1 = "Region_"
 		#Default second name line for new frontiers.
-		name2 = "Frontier"
+		name2 = ""
 		#Use a random color for new frontiers by default.
-		randomColor = true
+		randomColor = false
 		#Fallback fixed color for new frontiers when random color is disabled.
 		#Format: "RRGGBB". Also accepts "#RRGGBB", "0xRRGGBB", and "0xAARRGGBB".
-		color = "E0E0E0"
+		color = "404040"
 
 		[frontier.default.visibility]
 			#Default visibility for new frontiers.
@@ -85,7 +85,7 @@ configVersion = 4
 				#Default chat announcement visibility for new frontiers.
 				chat = false
 				#Default title announcement visibility for new frontiers.
-				title = false
+				title = true
 				#Default collection mention visibility for new frontiers.
 				mentionCollection = true
 
@@ -185,12 +185,12 @@ configVersion = 4
 	[frontier.visibility]
 		#Force all frontiers to be shown or hidden. In Custom, you can decide for each frontier.
 		#Allowed Values: Custom, Always, Never
-		visible = "Custom"
+		visible = "Always"
 
 		[frontier.visibility.announce]
 			#Force all frontiers to be announced in chat. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
-			chat = "Custom"
+			chat = "Never"
 			#Force all frontiers to be announced as titles. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
 			title = "Custom"
@@ -201,7 +201,7 @@ configVersion = 4
 		[frontier.visibility.fullscreen]
 			#Force all frontiers to be shown or hidden on the fullscreen map. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
-			visible = "Custom"
+			visible = "Always"
 			#Force all frontier names to be shown or hidden on the fullscreen map. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
 			name = "Custom"
@@ -233,13 +233,13 @@ configVersion = 4
 		[frontier.visibility.minimap]
 			#Force all frontiers to be shown or hidden on the minimap. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
-			visible = "Custom"
+			visible = "Always"
 			#Force all frontier names to be shown or hidden on the minimap. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
 			name = "Custom"
 			#Force all frontier collection names to be shown or hidden on the minimap. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
-			collection = "Custom"
+			collection = "Never"
 			#Force all frontier owners to be shown or hidden on the minimap. In Custom, you can decide for each frontier.
 			#Allowed Values: Custom, Always, Never
 			owner = "Custom"
@@ -297,13 +297,13 @@ configVersion = 4
 	[frontier.new]
 		#Shape used when creating a new frontier.
 		#Allowed Values: Vertex, Chunk, Path
-		shape = "Vertex"
+		shape = "Chunk"
 		#Action to perform after creating a new frontier.
 		#Allowed Values: InfoScreen, EditShape, DoNothing
-		afterCreation = "InfoScreen"
+		afterCreation = "EditShape"
 		#Shape preset used when creating a new vertex frontier.
 		#Range: 0 ~ 11
-		vertexShape = 0
+		vertexShape = 6
 		#Number of vertices used by the selected vertex shape preset.
 		#Range: 3 ~ 999
 		vertexCount = 16
@@ -318,7 +318,7 @@ configVersion = 4
 		chunkShape = 0
 		#Width used by the selected chunk shape preset.
 		#Range: 0 ~ 32
-		chunkShapeWidth = 5
+		chunkShapeWidth = 32
 		#Length used by the selected chunk shape preset.
 		#Range: 0 ~ 32
 		chunkShapeLength = 5
@@ -472,9 +472,9 @@ configVersion = 4
 
 	[gui.confirmation]
 		#Show a confirmation dialog before deleting a frontier.
-		frontierDelete = true
+		frontierDelete = false
 		#Show a confirmation dialog before deleting a collection.
-		collectionDelete = true
+		collectionDelete = false
 		#Show a confirmation dialog before deleting a group.
 		groupDelete = true
 		#Show a confirmation dialog before deleting a user.
@@ -533,9 +533,9 @@ configVersion = 4
 
 	[list.sorting]
 		#Order of the MapFrontiers list sorting modes.
-		priority = ["Created", "Name", "Owner", "Shape", "Area", "Modified"]
+		priority = ["Created", "Owner", "Name", "Shape", "Area", "Modified"]
 		#Direction of the MapFrontiers list sorting modes. True means ascending and false means descending.
-		directions = [false, true, true, true, true, false]
+		directions = [true, true, true, true, true, false]
 
 	[list.filters]
 		#Selected frontier shape filter in the MapFrontiers list.

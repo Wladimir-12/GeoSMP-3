@@ -1,0 +1,1588 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iii_edycja"
+	group: "3166F87759346947"
+	id: "6BF6806FF401E91F"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/ancient_debris_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.7198979591836903d
+			y: -3.921428571428546d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/ancient_debris_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.45918367346939704d
+			y: -3.242857142857101d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/ancient_debris_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5357142857142776d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/ancient_debris_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.2913265306122597d
+			y: -3.1214285714285452d
+		}
+		{
+			height: 1.0d
+			image: "create:block/train_trapdoor"
+			rotation: 0.0d
+			width: 0.0d
+			x: 0.0d
+			y: -1.9435374149659737d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.937244897959168d
+			y: 1.1928571428571644d
+		}
+		{
+			alpha: 200
+			color: 5046048
+			height: 2.5d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 13.423299319727867d
+			y: -0.06530612244894485d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.4471088435374d
+			y: 0.7442176870748582d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.113775510204064d
+			y: 1.1727891156462888d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.117176870748274d
+			y: 1.4176870748299635d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.970918367346918d
+			y: 0.6489795918367633d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.99472789115643d
+			y: 0.6421768707483295d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.647789115646233d
+			y: 0.5809523809524109d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.627380952380925d
+			y: 1.254421768707516d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/advancements/backgrounds/end.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 0.0d
+			x: 0.816836734693851d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/misc/underwater.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.442857142857143d
+			y: 3.1571428571428655d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.297619047619051d
+			y: 0.028571428571432023d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.226190476190489d
+			y: 2.135714285714286d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.083333333333343d
+			y: 1.778571428571432d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.333333333333336d
+			y: -0.7928571428571374d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.369047619047628d
+			y: 1.1357142857142861d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.69047619047619d
+			y: 0.4928571428571473d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.404761904761912d
+			y: -1.6142857142857068d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.869047619047628d
+			y: -1.1499999999999986d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:textures/particle/bomb_explosion_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.476190476190474d
+			y: -1.0428571428571445d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.3619047619047606d
+			y: 0.6173469387755048d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.361904761904761d
+			y: -0.31122448979592576d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.1119047619047535d
+			y: 0.11734693877550484d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.897619047619038d
+			y: 0.7602040816326507d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.219047619047615d
+			y: 0.4530612244897867d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.8619047619047535d
+			y: -0.48979591836735636d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.290476190476184d
+			y: -0.45408163265307167d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/crude_oil_flow"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.67619047619047d
+			y: 0.05306122448978812d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.6025510204081357d
+			y: 1.7285714285714278d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7249999999999659d
+			y: 1.626530612244892d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0515306122448678d
+			y: 1.7285714285714278d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.7086734693877403d
+			y: 1.1071428571428754d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8474489795918174d
+			y: 1.7897959183673464d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.4913265306122554d
+			y: 1.2500000000000213d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8515306122448791d
+			y: 1.1357142857143074d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5372448979591695d
+			y: 1.678571428571452d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.200680272108833d
+			y: 1.6653061224489747d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.022959183673457d
+			y: 1.5357142857143131d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7755102040816269d
+			y: 1.5034013605443164d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.2341836734694027d
+			y: 1.59285714285717d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5102040816326507d
+			y: 1.6666666666667567d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.7086734693877403d
+			y: 1.507142857142881d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.078231292517003d
+			y: 1.2571428571428527d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.955782312925166d
+			y: 1.4408163265306086d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.792517006802719d
+			y: 1.563265306122446d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.874149659863946d
+			y: 1.5428571428571445d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.731292517006807d
+			y: 0.787755102040812d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.180272108843539d
+			y: 0.9102040816326564d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.874149659863946d
+			y: 0.6040816326530631d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.812925170068034d
+			y: 1.5020408163265344d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.772108843537417d
+			y: 1.5020408163265344d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.098639455782319d
+			y: 0.7265306122449005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.792517006802733d
+			y: 0.9510204081632665d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.69047619047619d
+			y: 1.5020408163265344d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/campfire_fire"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.323129251700685d
+			y: 1.5020408163265344d
+		}
+		{
+			height: 1.5d
+			image: "createoreexcavation:textures/gui/sprites/atlas_show.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.82295918367349d
+			y: 0.8744897959182794d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.380952380952387d
+			y: -2.3214285714285694d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.595238095238095d
+			y: -1.1785714285714235d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.571428571428569d
+			y: -2.5595238095238066d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -1.5595238095238102d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.452380952380956d
+			y: -2.2261904761904745d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.166666666666671d
+			y: -1.6785714285714235d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/diamond_ore"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.000000000000007d
+			y: -1.3928571428571388d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.706972789115653d
+			y: -2.1880952380952294d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.206972789115653d
+			y: -2.521428571428558d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.468877551020412d
+			y: -2.521428571428558d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.397448979591843d
+			y: -2.521428571428558d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.8260204081632665d
+			y: -2.4499999999999957d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.016496598639456d
+			y: -1.9976190476190396d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.7784013605442155d
+			y: -2.664285714285704d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.754591836734697d
+			y: -1.9261904761904631d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.7784013605442155d
+			y: -2.211904761904748d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.3736394557823175d
+			y: -1.9738095238095141d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.016496598639456d
+			y: -2.8309523809523682d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.278401360544215d
+			y: -2.4976190476190396d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.016496598639463d
+			y: -2.211904761904755d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.421258503401361d
+			y: -2.9976190476190396d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.826020408163274d
+			y: -2.6404761904761784d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.94506802721088d
+			y: -2.1404761904761784d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.349829931972792d
+			y: -2.069047619047609d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.159353741496602d
+			y: -2.5928571428571345d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.921258503401361d
+			y: -2.2833333333333243d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/snow_block/crying_snow_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.183163265306128d
+			y: -1.7357142857142733d
+		}
+		{
+			height: 2.0d
+			image: "particlerain:textures/particle/dust.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.416496598639455d
+			y: -0.38809523809522517d
+		}
+		{
+			height: 2.0d
+			image: "particlerain:textures/particle/dust.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.07363945578232d
+			y: -1.3880952380952252d
+		}
+		{
+			height: 2.0d
+			image: "particlerain:textures/particle/dust.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 10.330782312925173d
+			y: -1.616666666666653d
+		}
+		{
+			height: 2.0d
+			image: "railways:textures/gui/bogey_icons/medium_quadruple_wheel_icon.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.9586734693877474d
+			y: 0.44761904761915616d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.2627551020408276d
+			y: -0.14999999999996305d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.570918367346927d
+			y: -0.20544217687063338d
+		}
+		{
+			height: 1.0d
+			image: "createoreexcavation:textures/gui/jm_coe_veins.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.203571428571422d
+			y: -0.5931972789114468d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:textures/particle/electric_spark.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.655272108843548d
+			y: -1.2068027210884011d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:textures/particle/electric_spark.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.060034013605453d
+			y: -1.2068027210884011d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:textures/particle/electric_spark.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.060034013605453d
+			y: -1.4210884353741164d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:textures/particle/electric_spark.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.607653061224497d
+			y: -1.1591836734693501d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:textures/particle/electric_spark.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.002210884353737d
+			y: -1.2238095238094857d
+		}
+		{
+			height: 1.0d
+			image: "essential:textures/account/smiley_8x8.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.250510204081642d
+			y: -3.302040816326496d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/kerosene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.56003401360546d
+			y: -3.778231292516967d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/kerosene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.702891156462606d
+			y: -4.016326530612204d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/kerosene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.48860544217689d
+			y: -3.2544217687074415d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/kerosene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.917176870748314d
+			y: -4.135374149659821d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/kerosene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.202891156462606d
+			y: -4.325850340136014d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/kerosene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.75051020408165d
+			y: -3.4925170068026787d
+		}
+		{
+			height: 1.0d
+			image: "tfmg:fluid/kerosene_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 17.17908163265308d
+			y: -3.421088435374106d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:block/coral_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.519217687074836d
+			y: -2.9959183673468956d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:block/coral_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.73350340136055d
+			y: -2.9959183673468956d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:block/coral_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:block/coral_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "createbigcannons:block/cannon_barrel/cast_iron_cannon_barrel_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 12.709693877551018d
+			y: -3.717687074829932d
+		}
+		{
+			height: 1.0d
+			image: "moonlight:textures/gui/sprites/media/modrinth.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 19.507312925170076d
+			y: -3.0748299319727863d
+		}
+		{
+			height: 1.0d
+			image: "chipped:block/glass/ctm/arched_leaded_glass_pillar/1"
+			rotation: 90.0d
+			width: 1.0d
+			x: 13.947789115646252d
+			y: -3.7653061224489868d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:textures/particle/plume/plume1_e.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.216496598639452d
+			y: -3.74659863945579d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:textures/particle/plume/plume4.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.889965986394557d
+			y: -3.8282312925170103d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:textures/particle/plume/plume4_e.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.706292517006801d
+			y: -3.8690476190476275d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:textures/particle/plume/plume5.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.400170068027208d
+			y: -3.8391156462585485d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:textures/particle/plume/plume5_e.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.094047619047615d
+			y: -3.8595238095238535d
+		}
+		{
+			height: 1.0d
+			image: "createpropulsion:textures/particle/plume/plume6.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.747108843537411d
+			y: -3.941156462585081d
+		}
+		{
+			height: 1.5d
+			image: "createpropulsion:textures/particle/smoke/big_smoke_4.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 10.298129251700686d
+			y: -4.074489795918456d
+		}
+		{
+			height: 1.5d
+			image: "createoreexcavation:textures/gui/sprites/atlas_show.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.920918367346964d
+			y: 1.0581632653060424d
+		}
+		{
+			height: 1.5d
+			image: "supplementaries:block/hourglass_gunpowder"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.5404761904761983d
+			y: 2.9282312925169194d
+		}
+		{
+			color: 8289918
+			height: 1.5d
+			image: "supplementaries:block/gunpowder_line0"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.5086734693877375d
+			y: 3.39285714285716d
+		}
+		{
+			height: 0.2d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 3.0d
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			height: 0.2d
+			image: "minecraft:block/iron_block"
+			rotation: 0.0d
+			width: 3.0d
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "quark:block/gunpowder_sack"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5372448979591624d
+			y: 5.058163265306149d
+		}
+		{
+			height: 0.5d
+			image: "quark:block/gunpowder_sack_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5372448979591695d
+			y: 4.450000000000017d
+		}
+		{
+			height: 1.0d
+			image: "essential:textures/sale_indicator.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.871088435374119d
+			y: 5.5292517006801845d
+		}
+		{
+			height: 2.0d
+			image: "create:item/creative_blaze_cake"
+			rotation: 0.0d
+			width: 2.0d
+			x: 17.49200680272115d
+			y: 0.00544217687066606d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "create:brass_casing"
+			}
+			icon_scale: 1.5d
+			id: "396EDB5DE1EAC921"
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "minecraft:oak_wood"
+				}
+				id: "21200915DB3A5DC6"
+				stage: ""
+				type: "gamestage"
+			}]
+			x: -4.839285714285722d
+			y: 0.25d
+		}
+		{
+			dependencies: ["792A6722E95ACD92"]
+			disable_recipe_mod: false
+			icon: {
+				id: "minecraft:diamond_chestplate"
+			}
+			id: "6AE4DBFB4A8A7A2E"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "1D0C65C5DAB3939E"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: -3.3392857142857224d
+			y: -3.5d
+		}
+		{
+			dependencies: ["396EDB5DE1EAC921"]
+			disable_recipe_mod: false
+			icon: {
+				id: "simulated:physics_assembler"
+			}
+			id: "200DEAC6AE9B67AF"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "68453A7A235E1829"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: -2.25d
+		}
+		{
+			dependencies: ["396EDB5DE1EAC921"]
+			disable_recipe_mod: false
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
+			id: "792A6722E95ACD92"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "1B4B5167708C6A56"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: -4.839285714285722d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6954843D9237630F"]
+			disable_recipe_mod: false
+			icon: {
+				id: "pointblank:m4a1mod1"
+			}
+			id: "695D6B8F2B0F1C56"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7F5FAC139420EFA0"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["742849053E7BE646"]
+			disable_recipe_mod: false
+			icon: {
+				components: {
+					"ftbquests:icon": "tfmg:item/steel_mechanism"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "27FEAC6482C7337B"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "0C5863FC159D0972"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["396EDB5DE1EAC921"]
+			disable_recipe_mod: false
+			icon: {
+				id: "createoreexcavation:drilling_machine"
+			}
+			id: "742849053E7BE646"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "20E39998C13F56CF"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: -1.787414965986386d
+			y: 0.18503401360553795d
+		}
+		{
+			dependencies: ["10028B21FE7D3CC5"]
+			disable_recipe_mod: false
+			icon: {
+				id: "aeronautics:white_envelope"
+			}
+			id: "38E4AB1080655192"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "397DA1757A10E228"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["5B6F56E4436A1365"]
+			disable_recipe_mod: false
+			icon: {
+				id: "offroad:tire"
+			}
+			id: "10028B21FE7D3CC5"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "3253172066EC2226"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: -2.25d
+		}
+		{
+			dependencies: ["38E4AB1080655192"]
+			disable_recipe_mod: false
+			icon: {
+				id: "aeronautics:propeller_bearing"
+			}
+			id: "66C8EC40372A2187"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "727DC730E62CCE07"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 8.25d
+			y: -2.25d
+		}
+		{
+			dependencies: ["66C8EC40372A2187"]
+			disable_recipe_mod: false
+			icon: {
+				id: "aeronautics:gyroscopic_propeller_bearing"
+			}
+			id: "7959473E045131F9"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7A9E2D42E55D518C"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["27FEAC6482C7337B"]
+			disable_recipe_mod: false
+			icon: {
+				id: "tfmg:electromagnetic_coil"
+			}
+			id: "174408E3BC939AAB"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "5693557A59432BD6"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7959473E045131F9"]
+			disable_recipe_mod: false
+			icon: {
+				id: "createpropulsion:thruster"
+			}
+			id: "6BC2C0AF582973DB"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "0933CBCE1463D57A"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["6BC2C0AF582973DB"]
+			disable_recipe_mod: false
+			icon: {
+				id: "aeroengineering:engine_compressor"
+			}
+			id: "6655E1F442015114"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "485DACED069A6E41"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: -3.75d
+		}
+		{
+			dependencies: [
+				"7959473E045131F9"
+				"695D6B8F2B0F1C56"
+				"0809BD8D69358EDC"
+				"46957CD63D4B0DAB"
+			]
+			disable_recipe_mod: false
+			icon: {
+				id: "minecraft:end_portal_frame"
+			}
+			id: "4BA8787F0CD4B70D"
+			min_required_dependencies: 2
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2E78CE9C1B161B93"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AE4DBFB4A8A7A2E"]
+			disable_recipe_mod: false
+			icon: {
+				id: "minecraft:netherite_ingot"
+			}
+			id: "297ED7C88599B782"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "6803CB311991B0BF"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["07F112AE9A39A258"]
+			disable_recipe_mod: false
+			icon: {
+				id: "createbigcannons:wrought_iron_cannon_chamber"
+			}
+			id: "6B3D3F798A8393BB"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "1792229BFFFD902E"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6B3D3F798A8393BB"]
+			disable_recipe_mod: false
+			icon: {
+				id: "createbigcannons:steel_cannon_chamber"
+			}
+			id: "6954843D9237630F"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "644233F0A3285F5B"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 2.25d
+		}
+		{
+			dependencies: ["174408E3BC939AAB"]
+			disable_recipe_mod: false
+			icon: {
+				id: "create_radar:plane_radar"
+			}
+			id: "2A62B5BB92A86AC6"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "6D4EE80684F47D9A"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["396EDB5DE1EAC921"]
+			disable_recipe_mod: false
+			icon: {
+				id: "pointblank:mosin"
+			}
+			id: "07F112AE9A39A258"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "3422BAEC8FE8B40F"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6954843D9237630F"]
+			disable_recipe_mod: false
+			icon: {
+				components: {
+					"cbc_at:cluster_fuzes": [
+						{
+							item: {
+								count: 1
+								id: "createbigcannons:impact_fuze"
+							}
+							slot: 0
+						}
+						{
+							item: {
+								count: 1
+								id: "createbigcannons:impact_fuze"
+							}
+							slot: 1
+						}
+						{
+							item: {
+								count: 1
+								id: "createbigcannons:impact_fuze"
+							}
+							slot: 2
+						}
+						{
+							item: {
+								count: 1
+								id: "createbigcannons:impact_fuze"
+							}
+							slot: 3
+						}
+					]
+					"cbc_at:cluster_projectile": "tooltip.cbc_at.ha_he"
+					"createbigcannons:power": 3
+				}
+				id: "cbc_at:cluster_caseless"
+			}
+			id: "1455563904F21227"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "4454EC6EF316DEE1"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.75d
+		}
+		{
+			dependencies: ["174408E3BC939AAB"]
+			disable_recipe_mod: false
+			icon: {
+				components: {
+					"cbc_at:rocket_fuel": 18b
+				}
+				id: "cbc_at:flak_rocket_item"
+			}
+			id: "0809BD8D69358EDC"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "0CC33A809AA13C9D"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6655E1F442015114"]
+			disable_recipe_mod: false
+			icon: {
+				id: "aeroengineering:engine_afterburner"
+			}
+			id: "43B6C3520D6475C4"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "234BB2DF77DCE55E"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["396EDB5DE1EAC921"]
+			hide_dependent_lines: true
+			icon_scale: 2.0d
+			id: "46957CD63D4B0DAB"
+			shape: "heart"
+			size: 2.0d
+			tasks: [{
+				id: "0E1C1F28D7552B64"
+				item: { count: 1, id: "handcrafted:berry_jam_jar" }
+				type: "item"
+			}]
+			x: -4.839285714285722d
+			y: 4.25d
+		}
+		{
+			dependencies: ["4BA8787F0CD4B70D"]
+			icon_scale: 2.0d
+			id: "119806B31C88C7A5"
+			shape: "hexagon"
+			tasks: [{
+				id: "2F74A7D17D25E9DA"
+				item: { count: 1, id: "simulated:creative_physics_staff" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["200DEAC6AE9B67AF"]
+			disable_recipe_mod: false
+			icon: {
+				id: "create:track"
+			}
+			id: "5B6F56E4436A1365"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "69D57C97093F6F85"
+				item: { count: 1, id: "minecraft:oak_wood" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: -2.25d
+		}
+	]
+}

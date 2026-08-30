@@ -1,0 +1,26 @@
+{
+  "name": "flakvest",
+  "type": "armor",
+  "armorType": "chestplate",
+  "durability": 256,
+  "toughness": 2,
+  "defense": 8,
+  "features": [
+    {
+      "type": "Attribute",
+      "attribute": "generic.movement_speed",
+      "modifier": {
+        "amount": -0.05,
+        "operation": "*b"
+      }
+    },
+    {
+      "type": "Slot",
+      "maxWeight": 128,
+      "filter": [
+        "AmmoItem",
+        "#pointblank:grenades"
+      ]
+    }
+  ]
+}

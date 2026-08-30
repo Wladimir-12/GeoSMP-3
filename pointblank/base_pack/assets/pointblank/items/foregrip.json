@@ -1,0 +1,19 @@
+{
+  "name": "foregrip",
+  "type": "Attachment",
+  "category": "UNDERBARREL",
+  "groups": [
+    "underbarrel",
+    "underbarrel_extra"
+  ],
+  "features": [
+    {
+      "type": "Recoil",
+      "recoilModifier": 0.6
+    },
+    {
+      "type": "AdsSpeed",
+      "adsModifier": 0.95
+    }
+  ]
+}

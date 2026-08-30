@@ -1,21 +1,13 @@
-filename = "exposure_polaroid-neoforge-1.21.1-1.1.5.jar"
 name = "Exposure: Polaroid"
+filename = "exposure_polaroid-neoforge-1.21.1-1.1.5.jar"
 side = "both"
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.1.5"
 
 [download]
-hash = "90ec430d616e8fe577dfafd7e2d3e9034a0aa58e8efac00910668744a91b6b205cf4836d5552869309ad840df43c1e7211379504cd3a9dff51ed3efdeb76a3ab"
-hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/WEWiqYkW/versions/88CBvo76/exposure_polaroid-neoforge-1.21.1-1.1.5.jar"
+hash-format = "sha1"
+hash = "21bb0d20347c0fae7700d9a0ea7d956df2da5c72"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "WEWiqYkW"
-version = "88CBvo76"
-
-[[x-prismlauncher-dependencies]]
-addonId = "hB899VmG"
-type = "REQUIRED"
+[update]
+[update.curseforge]
+file-id = 8223623
+project-id = 1207005

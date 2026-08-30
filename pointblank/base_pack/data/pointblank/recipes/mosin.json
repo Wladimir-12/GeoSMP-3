@@ -1,0 +1,28 @@
+{
+  "type": "pointblank:default",
+  "ingredients": [
+    {
+      "count": 16,
+      "item": "pointblank:gunmetal_ingot"
+    },
+    {
+      "count": 8,
+      "item": "pointblank:guninternals"
+    },
+    {
+      "count": 8,
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "count": 16,
+      "tag": "minecraft:planks"
+    },
+    {
+      "count": 4,
+      "tag": "minecraft:logs"
+    }
+  ],
+  "result": {
+    "item": "pointblank:mosin"
+  }
+}

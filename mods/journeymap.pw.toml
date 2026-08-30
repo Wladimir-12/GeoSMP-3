@@ -1,18 +1,13 @@
+name = "JourneyMap"
 filename = "journeymap-neoforge-1.21.1-6.0.0.jar"
-name = "Journeymap-NeoForge"
 side = "both"
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.21.1-6.0.0+neoforge"
 
 [download]
-hash = "5478e1162fb0637dcbb9e3d2d523d0ca0d3a6cb5acbe5f6ada2948e77b67070e94ea1511882053598b366c29837285f9573b7df1e7a6978cbf710d8282605fdb"
-hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/edtgHsxe/journeymap-neoforge-1.21.1-6.0.0.jar"
+hash-format = "sha1"
+hash = "40f8124b68c778b53d4037e604e9a29b8fe1be6d"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "lfHFW1mp"
-version = "edtgHsxe"
+[update]
+[update.curseforge]
+file-id = 8325591
+project-id = 32274

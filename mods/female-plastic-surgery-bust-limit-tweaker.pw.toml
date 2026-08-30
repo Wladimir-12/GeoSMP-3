@@ -1,21 +1,13 @@
-filename = "FemalePlasticSurgery-neoforge-1.21.1-1.0.0.jar"
 name = "Female Plastic Surgery: Bust Limit Tweaker"
+filename = "FemalePlasticSurgery-neoforge-1.21.1-1.0.0.jar"
 side = "both"
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "FemalePlasticSurgery-neoforge-1.21.1-1.0.0.jar"
 
 [download]
-hash = "146ff4b53dd9233a1806a125195ab00f8c270c0d"
 hash-format = "sha1"
+hash = "146ff4b53dd9233a1806a125195ab00f8c270c0d"
 mode = "metadata:curseforge"
 
-
+[update]
 [update.curseforge]
 file-id = 6080028
 project-id = 1178067
-
-[[x-prismlauncher-dependencies]]
-addonId = "481655"
-type = "REQUIRED"

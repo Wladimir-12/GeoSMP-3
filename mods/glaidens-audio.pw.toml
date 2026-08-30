@@ -1,0 +1,13 @@
+name = "Glaiden's Audio"
+filename = "glaidens_radio_mod-1.3.8-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc8b476c22cabee335f5ed8b8b0ce312e6bcdac0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8525878
+project-id = 1533126

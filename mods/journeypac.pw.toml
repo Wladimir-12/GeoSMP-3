@@ -1,0 +1,13 @@
+name = "JourneyPAC"
+filename = "JourneyPAC-neoforge-1.21-1.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f20dc9c610f3fcd1d62bc90c3ba0844af9cc1b0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6503832
+project-id = 1121777

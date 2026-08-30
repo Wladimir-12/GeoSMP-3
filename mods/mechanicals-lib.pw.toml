@@ -1,21 +1,13 @@
-filename = "mechanicals-1.21.1-1.1.4.jar"
 name = "Mechanicals Lib"
+filename = "mechanicals-1.21.1-1.1.4.jar"
 side = "both"
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.21.1-1.1.4"
 
 [download]
-hash = "be7f33864ff4bab574b0648b4e92471e34de2d01df68b0bdd9134a4271b3e5bb554eedc4a19060b0ef2576c7a71fe453197db00dc24a19d5c1c4f330eeb29a2b"
-hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/ProvjTA7/versions/wEAqPnoN/mechanicals-1.21.1-1.1.4.jar"
+hash-format = "sha1"
+hash = "51fb95f943db9382f7aa9a0a35ce4f79c5d578fa"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "ProvjTA7"
-version = "wEAqPnoN"
-
-[[x-prismlauncher-dependencies]]
-addonId = "umyGl7zF"
-type = "OPTIONAL"
+[update]
+[update.curseforge]
+file-id = 8292737
+project-id = 1253573

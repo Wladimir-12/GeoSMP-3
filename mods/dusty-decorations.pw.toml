@@ -1,18 +1,13 @@
-filename = "DustyDecorations_1.21.1Neoforge_V1.13.jar"
 name = "Dusty Decorations"
+filename = "DustyDecorations_1.21.1Neoforge_V1.13.jar"
 side = "both"
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.13"
 
 [download]
-hash = "a424b00b5ac9b2622c6310e65ab74e99e8360788591942095fcd6c0e754fd652b5d45eb02599ddb0249d821a6a61b7aa26edf71f7bd28c24462aace423ba5c25"
-hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/vAhGaZOr/DustyDecorations_1.21.1Neoforge_V1.13.jar"
+hash-format = "sha1"
+hash = "5498e94d078d40172db39c423c84ea84d3cb8884"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "KgFOuaiZ"
-version = "vAhGaZOr"
+[update]
+[update.curseforge]
+file-id = 7917189
+project-id = 843344

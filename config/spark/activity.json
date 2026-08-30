@@ -2,6 +2,19 @@
   {
     "user": {
       "type": "player",
+      "name": "Pvszyslaw",
+      "uniqueId": "7a78693f-a843-4c02-83a8-a636d09af4e6"
+    },
+    "time": 1785970423182,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4uj7rqVv5d"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
       "name": "gotitim",
       "uniqueId": "c7879227-3d1d-4dd7-92dd-b9c6f58fd632"
     },

@@ -77,6 +77,12 @@
     "block_properties": false,
     "mod_name": true
   },
+  "exposure_space": {
+    "analyzer": true
+  },
+  "corpse": {
+    "corpse": true
+  },
   "progressivestages": {
     "stage_lock": true,
     "stage_lock_entity": true

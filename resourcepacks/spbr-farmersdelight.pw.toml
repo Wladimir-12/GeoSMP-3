@@ -1,0 +1,13 @@
+name = "SPBR-Farmer's Delight"
+filename = "SPBR-Farmer's Delight_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kdAPiuKp/versions/UfxXuYPL/SPBR-Farmer%27s%20Delight_1.1.zip"
+hash-format = "sha512"
+hash = "385ee4d5ecfb345513fc32186e10056fb99109cb412b631e0ae6ee3fd1b88f7ea432bd5353f704be8108b1aab1018ec4a267218457255b197fde0b9d70c2facf"
+
+[update]
+[update.modrinth]
+mod-id = "kdAPiuKp"
+version = "UfxXuYPL"

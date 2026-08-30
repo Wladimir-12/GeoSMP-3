@@ -1,8 +1,0 @@
-name = "easyauth"
-filename = "easyauth-3.2.2.jar"
-side = "server"
-
-[download]
-url = "https://github.com/Rico040/EasyAuthForNeoforge/releases/download/3.2.2/easyauth-3.2.2.jar"
-hash-format = "sha256"
-hash = "04c9bc181d1a4a6672030fc5db592fc5ae92634d8ffe74e4ee8ebfe50c70113c"

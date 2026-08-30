@@ -77,10 +77,6 @@
 	[redstone.pulley_block]
 		#Pulleys are automatically disabled if 'rope' feature is disabled
 		enabled = true
-		#Chance for a new mineshaft elevator piece to spawn
-		# Default: 0.035
-		# Range: 0.0 ~ 1.0
-		mineshaft_elevator = 0.035
 		#If true, pulleys retract their rope chain over multiple ticks, animating each block via vanilla moving-piston entities. 
 		#Connected blocks become moving blocks (so they push entities, drop sand etc) and multiple pulleys can cooperate to pull a single heavy contraption — useful for elevators. 
 		#If false, the original instant retraction behavior is used.
@@ -96,6 +92,10 @@
 		# Default: 4
 		# Range: 2 ~ 100
 		pull_interval = 4
+		#Chance for a new mineshaft elevator piece to spawn
+		# Default: 0.035
+		# Range: 0.0 ~ 1.0
+		mineshaft_elevator = 0.035
 
 	[redstone.dispenser_minecart]
 		enabled = true
@@ -589,7 +589,7 @@
 			#Bomb explosion radius (damage depends on this)
 			# Default: 5.15
 			# Range: 0.1 ~ 10.0
-			explosion_radius = 5.15
+			explosion_radius = 3.0
 			#Do bombs break blocks like tnt?
 			#Allowed Values: ALL, WEAK, NONE
 			break_blocks = "WEAK"
@@ -652,18 +652,18 @@
 		#Adds dragon banner pattern made from dragon head
 		enabled = true
 
+	[tweaks.golden_apple_disenchant]
+		enabled = true
+
+	[tweaks.raked_gravel]
+		#allow gravel to be raked with a hoe
+		enabled = true
+
 	[tweaks.ai_tweaks]
 		#Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
 		pillagers_use_cannon_boats = true
 		#Allows mobs to dismount from boats when on land. Add more entities to the 'supplementaries:can_dismount_boats' tag to allow them to dismount as well
 		raiders_dismount_boats = true
-
-	[tweaks.golden_apple_disenchant]
-		enabled = true
-
-	[tweaks.traders_open_doors]
-		#Allows traders to open doors (because they couldn't apparently)
-		enabled = true
 
 	[tweaks.dispenser_tweaks]
 		#Allows dispensers to use axes on blocks to strip logs and scrape off copper oxidation and wax
@@ -695,10 +695,6 @@
 		# Range: 0 ~ 8
 		spread_age = 2
 
-	[tweaks.raked_gravel]
-		#allow gravel to be raked with a hoe
-		enabled = true
-
 	[tweaks.bottle_xp]
 		#Allow bottling up xp by using a bottle on an enchanting table
 		enabled = false
@@ -715,8 +711,6 @@
 		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
 		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
 		death_marker = "WITH_COMPASS"
-		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
-		tinted_blocks_on_maps = true
 		#If Quark is installed adventurer maps will be replaced by adventurer quills. These will not lag the server when generating
 		quill_adventurer_maps = true
 		#If Quark is installed replaces buried treasure and mansion maps with their equivalent quill form. This removes the lag spike they create when generating
@@ -725,6 +719,8 @@
 		# Default: 75
 		# Range: 10 ~ 600
 		min_search_radius = 75
+		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
+		tinted_blocks_on_maps = true
 
 		[tweaks.map_tweaks.random_adventurer_maps]
 			#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
@@ -757,23 +753,11 @@
 		#Convert a zombie horse back by feeding it a golden carrot
 		zombie_horse_inverse_conversion = true
 
-	[tweaks.noteblocks_scare]
-		#Noteblocks with a zombie head will scare off villagers
-		enabled = true
-
 	[tweaks.bad_luck_tweaks]
 		#Hit a void cat, get the unluck
 		cat_unluck = true
 		#If you have unluck you are more likely to get hit by a lighting. Holding a lightning rod also causes this
 		lightning_unluck = true
-
-	[tweaks.item_lore]
-		#Adds a recipe to add 'lore' strings to an item by combining it with a named nametag
-		enabled = true
-
-	[tweaks.sus_recipes]
-		#Adds recipes to craft suspicious gravel and suspicious sand
-		enabled = true
 
 	[tweaks.slimed_effect]
 		enabled = true
@@ -806,3 +790,19 @@
 		cooperative_pistons = true
 		#If true, pushing an empty cauldron into a water or lava source (with a piston or a pulley) fills it with that fluid, instead of leaving it empty. Also tops up cauldrons being moved.
 		moved_cauldron_filling = true
+
+	[tweaks.traders_open_doors]
+		#Allows traders to open doors (because they couldn't apparently)
+		enabled = true
+
+	[tweaks.noteblocks_scare]
+		#Noteblocks with a zombie head will scare off villagers
+		enabled = true
+
+	[tweaks.item_lore]
+		#Adds a recipe to add 'lore' strings to an item by combining it with a named nametag
+		enabled = true
+
+	[tweaks.sus_recipes]
+		#Adds recipes to craft suspicious gravel and suspicious sand
+		enabled = true

@@ -1,21 +1,13 @@
-filename = "supplementaries-neoforge-1.21.1-3.7.7.jar"
 name = "Supplementaries"
+filename = "supplementaries-neoforge-1.21.1-3.7.7.jar"
 side = "both"
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.21.1-3.7.7"
 
 [download]
-hash = "a46527c3ed0885c4181a4adf9d38756c919cbba2280c76a8cec2ee2a34a012eba83f0aecbd8a9406b6bd8ed359a6f1c7afce36c5c57fbbc48348281115a3c6e9"
-hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/FPL7hXrE/supplementaries-neoforge-1.21.1-3.7.7.jar"
+hash-format = "sha1"
+hash = "94e2f1e01a41dbf1cea6baf7517858cae223af5d"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "fFEIiSDQ"
-version = "FPL7hXrE"
-
-[[x-prismlauncher-dependencies]]
-addonId = "twkfQtEc"
-type = "REQUIRED"
+[update]
+[update.curseforge]
+file-id = 8355309
+project-id = 412082

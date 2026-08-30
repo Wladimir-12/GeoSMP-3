@@ -412,7 +412,7 @@
 	#Maximum distance in blocks a Package Port can be placed at from its target.
 	# Default: 5
 	# Range: > 1
-	packagePortRange = 5
+	packagePortRange = 32
 	#.
 	#Maximum possible range in blocks of redstone link connections.
 	# Default: 256
@@ -464,13 +464,13 @@
 	#The maximum allowed file size of uploaded Schematics.
 	# Default: 256
 	# Range: > 16
-	maxTotalSchematicSize = 256
+	maxTotalSchematicSize = 9000
 	#.
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
 	# Default: 1024
 	# Range: 256 ~ 32767
-	maxSchematicPacketSize = 1024
+	maxSchematicPacketSize = 16000
 	#.
 	#Amount of game ticks without new packets arriving until an active schematic upload process is discarded.
 	# Default: 600
@@ -542,12 +542,12 @@
 	#Maximum length of track that can be placed as one batch or turn.
 	# Default: 32
 	# Range: 16 ~ 128
-	maxTrackPlacementLength = 32
+	maxTrackPlacementLength = 128
 	#.
 	#Maximum length of a Train Stations' assembly track.
 	# Default: 128
 	# Range: 5 ~ 512
-	maxAssemblyLength = 128
+	maxAssemblyLength = 240
 	#.
 	#Maximum amount of bogeys assembled as a single Train.
 	# Default: 20

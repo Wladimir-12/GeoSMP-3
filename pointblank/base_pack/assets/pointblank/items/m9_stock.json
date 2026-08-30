@@ -1,0 +1,19 @@
+{
+    "name": "m9_stock",
+    "type": "Attachment",
+    "category": "STOCK",
+    "features": [
+        {
+            "type": "Recoil",
+            "recoilModifier": 0.5
+        },
+        {
+            "type": "Accuracy",
+            "accuracyModifier": 3.0
+        },
+        {
+            "type": "AdsSpeed",
+            "adsModifier": 1.1
+        }
+    ]
+}

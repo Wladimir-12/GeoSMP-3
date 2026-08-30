@@ -1,0 +1,13 @@
+name = "CBC: SmallShells"
+filename = "SmallShells.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mHyNMt2V/versions/cvEwLlkz/SmallShells.zip"
+hash-format = "sha512"
+hash = "d4e843bd34080c326e4a89938824a24c9e8fa93c559ad7eac3626d665f2edd672a7f2c60ff88bbd741bcbc43960d9f1b7bb485796a3afd868069a38bfb00b6a2"
+
+[update]
+[update.modrinth]
+mod-id = "mHyNMt2V"
+version = "cvEwLlkz"

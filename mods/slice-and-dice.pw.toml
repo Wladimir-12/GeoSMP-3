@@ -1,33 +1,13 @@
-filename = "sliceanddice-neoforge-4.3.2.jar"
 name = "Create Slice & Dice"
+filename = "sliceanddice-neoforge-4.3.2.jar"
 side = "both"
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = "beta"
-x-prismlauncher-version-number = "4.3.2"
 
 [download]
-hash = "5093797c46be646a9af44aace05e43a5705a3bd59927c0fa0e6a3e0e00fdf4222d85eca06d4be6381915f87a064488174fa690218f380c156ae46d0b725b0cc4"
-hash-format = "sha512"
-mode = "url"
-url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/cV2GZBSJ/sliceanddice-neoforge-4.3.2.jar"
+hash-format = "sha1"
+hash = "ba4a47438623e78739d125b733971121ad14915e"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = "GmjmRQ0A"
-version = "cV2GZBSJ"
-
-[[x-prismlauncher-dependencies]]
-addonId = "R2OftAxM"
-type = "OPTIONAL"
-
-[[x-prismlauncher-dependencies]]
-addonId = "LNytGWDc"
-type = "REQUIRED"
-
-[[x-prismlauncher-dependencies]]
-addonId = "JWGBpFUP"
-type = "OPTIONAL"
-
-[[x-prismlauncher-dependencies]]
-addonId = "ordsPcFz"
-type = "REQUIRED"
+[update]
+[update.curseforge]
+file-id = 8310636
+project-id = 659674

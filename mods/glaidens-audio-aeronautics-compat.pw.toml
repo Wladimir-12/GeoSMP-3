@@ -1,0 +1,13 @@
+name = "Glaiden's audio Aeronautics compat"
+filename = "glaidens_audio_compat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d593c5b8abf5595f512f26d4dfd16c082ad30a9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8040096
+project-id = 1533991
